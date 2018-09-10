@@ -8,5 +8,8 @@
 
 import Foundation
 
-print("Hello, World!")
+let string = "@jinsai"
 
+let array = [Int]()
+
+letterChecker()
